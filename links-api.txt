@@ -1,0 +1,23 @@
+list all products 
+http://minisupermarket/allProducts
+
+All categories
+http://minisupermarket/allCategories
+
+Delete categories
+http://minisupermarket/deleteCategory?id=
+
+Add category
+http://minisupermarket/newCategory
+
+Delete User
+http://minisupermarket/deleteUser?id=
+
+Get specific category
+http://minisupermarket/getCategories?id=
+
+Get specific user
+http://minisupermarket/getUser?id=
+
+Add user
+http://minisupermarket/newUser
